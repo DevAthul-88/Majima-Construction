@@ -1,5 +1,7 @@
 # Majima-Construction
 
+# Majima Construction (真島建設, Majima Kensetsu) is a construction company headed by Goro Majima
+
 ### A web desgin concept for Majima Construction
 ### I created this only for educational purpose.
 
